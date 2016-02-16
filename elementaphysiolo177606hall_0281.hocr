@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementaphysiolo177606hall_0281.png"; bbox 0 0 2566 3611; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1032 699 1905 796">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1032 699 1905 796">
+     <span class='ocr_line' id='line_1_1' title="bbox 1032 699 1905 796; baseline 0.018 -35"><span class='ocrx_word' id='word_1_1' title='bbox 1032 715 1243 764; x_wconf 51' lang='lat' dir='ltr'><em>Hazza</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1259 699 1529 796; x_wconf 41' lang='lat' dir='ltr'><em>Pff&#39;lol&#39;</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1554 717 1746 782; x_wconf 68' lang='lat' dir='ltr'><em>Tam„</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1771 748 1774 750; x_wconf 89' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 1799 714 1905 776; x_wconf 52' lang='lat' dir='ltr'><em>Vl:v</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 817 923 2353 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 817 923 2353 1996">
+     <span class='ocr_line' id='line_1_2' title="bbox 817 923 2353 1996; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 817 923 2353 1996; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1917 2239 2341 2292">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1917 2239 2341 2292">
+     <span class='ocr_line' id='line_1_3' title="bbox 1917 2239 2341 2292; baseline 0.005 -5"><span class='ocrx_word' id='word_1_7' title='bbox 1917 2246 1992 2287; x_wconf 51' lang='lat' dir='ltr'><em>cle*</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2007 2241 2202 2289; x_wconf 60' lang='lat' dir='ltr'><em>Gfado</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2229 2239 2341 2292; x_wconf 34' lang='lat' dir='ltr'><em>lille.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
